@@ -4,33 +4,34 @@
  * Using ItemName_XX.txt makes sure your translations don't break with changes to the English names.
  */
 Items_RU = {
-	/* для тултипа "требуется: %1/%2" над пунктом "курить", когда нет спичек и зажигалки */
-	DisplayName_Lighter = "Зажигалка",
-	DisplayName_Matches = "Спички",
+	/* РґР»СЏ С‚СѓР»С‚РёРїР° "С‚СЂРµР±СѓРµС‚СЃСЏ: %1/%2" РЅР°Рґ РїСѓРЅРєС‚РѕРј "РєСѓСЂРёС‚СЊ", РєРѕРіРґР° РЅРµС‚ СЃРїРёС‡РµРє Рё Р·Р°Р¶РёРіР°Р»РєРё */
+	DisplayName_Lighter = "Р—Р°Р¶РёРіР°Р»РєР°",
+	DisplayName_Matches = "РЎРїРёС‡РєРё",
 	
-	/* для тултипов "требуется" в меню "Сварить" (ранее - "Газосварка") - не срабатывает ItemName */
-	DisplayName_Blow_Torch = "Пропановая горелка",
-	DisplayName_Welding_Mask = "Сварочная маска",
-	DisplayName_Welding_Rods = "Сварочные электроды",
-	DisplayName_Scrap_Metal = "Металлолом",
-	DisplayName_Metal_Sheet = "Лист металла",
-	DisplayName_Small_Metal_Sheet = "Маленький лист металла",
-	DisplayName_Metal_Bar = "Металлическая пластина",
-	DisplayName_Metal_Pipe = "Металлическая труба",
-	DisplayName_Wire = "Проволока",
-	DisplayName_Hinge = "Дверная петля",
+	/* РґР»СЏ С‚СѓР»С‚РёРїРѕРІ "С‚СЂРµР±СѓРµС‚СЃСЏ" РІ РјРµРЅСЋ "РЎРІР°СЂРёС‚СЊ" (СЂР°РЅРµРµ - "Р“Р°Р·РѕСЃРІР°СЂРєР°") - РЅРµ СЃСЂР°Р±Р°С‚С‹РІР°РµС‚ ItemName */
+	DisplayName_Blow_Torch = "РџСЂРѕРїР°РЅРѕРІР°СЏ РіРѕСЂРµР»РєР°",
+	DisplayName_Welding_Mask = "РЎРІР°СЂРѕС‡РЅР°СЏ РјР°СЃРєР°",
+	DisplayName_Welding_Rods = "РЎРІР°СЂРѕС‡РЅС‹Рµ СЌР»РµРєС‚СЂРѕРґС‹",
+	DisplayName_Scrap_Metal = "РњРµС‚Р°Р»Р»РѕР»РѕРј",
+	DisplayName_Metal_Sheet = "Р›РёСЃС‚ РјРµС‚Р°Р»Р»Р°",
+	DisplayName_Small_Metal_Sheet = "РњР°Р»РµРЅСЊРєРёР№ Р»РёСЃС‚ РјРµС‚Р°Р»Р»Р°",
+	DisplayName_Metal_Bar = "РњРµС‚Р°Р»Р»РёС‡РµСЃРєР°СЏ РїР»Р°СЃС‚РёРЅР°",
+	DisplayName_Metal_Pipe = "РњРµС‚Р°Р»Р»РёС‡РµСЃРєР°СЏ С‚СЂСѓР±Р°",
+	DisplayName_Wire = "РџСЂРѕРІРѕР»РѕРєР°",
+	DisplayName_Hinge = "Р”РІРµСЂРЅР°СЏ РїРµС‚Р»СЏ",
 	
-	/* для результатов Evolved-рецептов - не срабатывает ItemName */
-	DisplayName_Canned_Carrots = "Консерв. морковь",
-	DisplayName_Canned_Chili = "Консерв. мясо с чили",
-	DisplayName_Canned_Corn = "Консерв. кукуруза",
-	DisplayName_Canned_Corned_Beef = "Консерв. говядина",
-	DisplayName_Canned_Peas = "Консерв. горох",
-	DisplayName_Canned_Potato = "Консерв. картофель",
-	DisplayName_Canned_Sardines = "Консерв. сардины",
-	DisplayName_Canned_Bolognese = "Консерв. болоньезе",
-	DisplayName_Canned_Tomato = "Консерв. томат",
+	/* РґР»СЏ СЂРµР·СѓР»СЊС‚Р°С‚РѕРІ Evolved-СЂРµС†РµРїС‚РѕРІ - РЅРµ СЃСЂР°Р±Р°С‚С‹РІР°РµС‚ ItemName Рё ContextMenu_FoodType_*, РїРѕС…РѕР¶Рµ, РёСЃРїРѕР»СЊР·СѓРµС‚СЃСЏ РїР°СЂР°РјРµС‚СЂ EvolvedRecipeName РёР· scripts */
+	DisplayName_Canned_Carrots = "РљРѕРЅСЃРµСЂРІ. РјРѕСЂРєРѕРІСЊ",
+	DisplayName_Canned_Chili = "РљРѕРЅСЃРµСЂРІ. РјСЏСЃРѕ СЃ С‡РёР»Рё",
+	DisplayName_Canned_Corn = "РљРѕРЅСЃРµСЂРІ. РєСѓРєСѓСЂСѓР·Р°",
+	DisplayName_Canned_Corned_Beef = "РљРѕРЅСЃРµСЂРІ. РіРѕРІСЏРґРёРЅР°",
+	DisplayName_Canned_Peas = "РљРѕРЅСЃРµСЂРІ. РіРѕСЂРѕС…",
+	DisplayName_Canned_Potato = "РљРѕРЅСЃРµСЂРІ. РєР°СЂС‚РѕС„РµР»СЊ",
+	DisplayName_Canned_Sardines = "РљРѕРЅСЃРµСЂРІ. СЃР°СЂРґРёРЅС‹",
+	DisplayName_Canned_Bolognese = "РљРѕРЅСЃРµСЂРІ. Р±РѕР»РѕРЅСЊРµР·Рµ",
+	DisplayName_Canned_Tomato = "РљРѕРЅСЃРµСЂРІ. С‚РѕРјР°С‚",
+	DisplayName_Tea = "Р§Р°Р№",
 	
-	/* в коде отмечено как устаревшее, но всё ещё появляется в Evolved-рецептах */
-	DisplayName_Bottle_with_Mayonnaise_(Full) = "Майонез (устаревшее)",
+	/* РІ РєРѕРґРµ РѕС‚РјРµС‡РµРЅРѕ РєР°Рє СѓСЃС‚Р°СЂРµРІС€РµРµ, РЅРѕ РІСЃС‘ РµС‰С‘ РїРѕСЏРІР»СЏРµС‚СЃСЏ РІ Evolved-СЂРµС†РµРїС‚Р°С… */
+	DisplayName_Bottle_with_Mayonnaise_(Full) = "РњР°Р№РѕРЅРµР· (СѓСЃС‚Р°СЂРµРІС€РµРµ)",
 }
